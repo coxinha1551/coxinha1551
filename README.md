@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💙
 
-<!--
-**coxinha1551/coxinha1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome é: Samuel Carneeiro de Olivira
 
-Here are some ideas to get you started:
+ Estou estudando no alura
+ Estou me desenvolvendo na Linguagem javaScript
+ utilizou esse espaço para organiar e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Você entrar em contato comigo📫
+
+ samuel.oliveira21@escola.pr.gov.br
+
+ @eae_samuel08
